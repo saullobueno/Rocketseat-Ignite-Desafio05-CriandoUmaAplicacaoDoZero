@@ -1,0 +1,61 @@
+{
+  "id": "ea4f9301-aef6-4d56-ade4-5b9785520fc3",
+  "uid": "laudantium-quod-voluptas",
+  "type": "posts",
+  "data": {
+    "title": "facilitate world-class users",
+    "subtitle": "enable bleeding-edge blockchains",
+    "author": "visualize user-centric experiences",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1601933973783-43cf8a7d4c5f?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "seize end-to-end eyeballs",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Nostrud est ullamco mollit minim ipsum do id. Consectetur laborum incididunt quis exercitation culpa mollit aute sint sunt dolore voluptate labore.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "deploy holistic solutions",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Ullamco eiusmod qui ullamco officia nisi officia. Laboris sit ex tempor cillum. Minim id Lorem in exercitation commodo laboris laboris incididunt in aliqua labore Lorem.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "synergize clicks-and-mortar partnerships",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Velit aliquip ullamco commodo nulla et anim dolor occaecat aute dolor cupidatat sint ad. Ad laboris non anim cupidatat dolor esse ullamco tempor sit. Eiusmod reprehenderit ad aute duis Lorem aliqua deserunt ipsum anim nostrud eu eu sunt.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "seize one-to-one ROI",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Proident nostrud aliqua esse ad ipsum cupidatat aute aute commodo aliquip adipisicing incididunt ex. Ut sit adipisicing irure enim officia nostrud exercitation elit Lorem proident nisi consequat amet.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
